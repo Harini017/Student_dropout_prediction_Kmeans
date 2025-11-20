@@ -10,7 +10,8 @@ This project predicts student dropout risk based on activity and performance dat
 
 ## Setup
 ```bash
-cd D:\student_dropout_prediction
+cd student_dropout_prediction
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+
